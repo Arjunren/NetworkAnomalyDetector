@@ -1,0 +1,14 @@
+{
+  "duration_ms": 1000,
+  "destination_port": 443,
+  "protocol": 6,
+  "fwd_packets": 10,
+  "bwd_packets": 8,
+  "fwd_bytes": 1200,
+  "bwd_bytes": 800,
+  "syn_flags": 2,
+  "ack_flags": 3,
+  "avg_packet_size": 100,
+  "active_mean_ms": 50,
+  "idle_mean_ms": 25
+}
